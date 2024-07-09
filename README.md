@@ -72,7 +72,7 @@ Avant de démarrer, assurez-vous d'avoir les éléments suivants installés :
 ├── Backend/
 │   ├── data.json               # Fichier JSON pour stocker les produits
 │   ├── server.js               # Point d'entrée du serveur Express
-│   ├── package.json           # Liste des dépendances et scripts npm
+│   ├── package.json            # Liste des dépendances et scripts npm
 │   └── ...
 │
 ├── Frontend/
