@@ -1,0 +1,28 @@
+### Create (POST)
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+    "name": "ordinateur",
+    "price": 45,
+    "quantity": 8
+}
+
+### Read all (GET)
+GET http://localhost:3000/products
+
+### Read one by ID (GET)
+GET http://localhost:3000/products/1720540173726
+
+### Update by ID (PUT)
+PUT http://localhost:3000/products/1719662720678
+Content-Type: application/json
+
+{
+    "name": "produit mis à jour",
+    "price": 7100,
+    "quantity": 2
+}
+
+### Delete by ID (DELETE)
+DELETE http://localhost:3000/products/1720540135381

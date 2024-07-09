@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1719662741003,
+    "name": "Avion",
+    "price": "10000000",
+    "quantity": "14"
+  },
+  {
+    "id": 1720540045646,
+    "name": "ordinateur",
+    "price": "45",
+    "quantity": "8"
+  },
+  {
+    "id": 1720543987369,
+    "name": "Voitures",
+    "price": "788",
+    "quantity": "55"
+  },
+  {
+    "id": 1720545953851,
+    "name": "moto",
+    "price": "1010",
+    "quantity": "54"
+  },
+  {
+    "id": 1720550402549,
+    "name": "Télévision samsung",
+    "price": "500",
+    "quantity": "100"
+  },
+  {
+    "id": 1720550440688,
+    "name": "iPhone 14",
+    "price": "1200",
+    "quantity": "42"
+  }
+]
